@@ -6,14 +6,14 @@
     background-color: #111;
     color: #fff;
     font-family: sans-serif;
-}
-
-li {
+} div.header {
+    background-color: #131;
+    margin-bottom: 8px;
+    text-align: center;
+} p {
+    font-size: 24px;
+    border: dashed blueviolet 2px;
+} li {
     display: block;
     color: aliceblue;
-}
-
-p {
-    font-size: medium;
-    border: dashed blueviolet 2px;
 }
