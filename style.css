@@ -1,8 +1,19 @@
-*{
+* {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-}
+} 
 body{
-    background-color: aliceblue;
+    color: #fff;
+    font-family: sans-serif;
+} div.header {
+    background-color: #131;
+    margin-bottom: 8px;
+    text-align: center;
+} p {
+    font-size: 24px;
+    border: dashed blueviolet 2px;
+} li {
+    display: block;
+    color: aliceblue;
 }
