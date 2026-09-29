@@ -12,4 +12,8 @@
     text-align: center;
 } p {
     font-size: 24px;
+    border: dashed blueviolet 2px;
+} li {
+    display: block;
+    color: aliceblue;
 }
