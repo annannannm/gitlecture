@@ -7,3 +7,13 @@
     color: #fff;
     font-family: sans-serif;
 }
+
+li {
+    display: block;
+    color: aliceblue;
+}
+
+p {
+    font-size: medium;
+    border: dashed blueviolet 2px;
+}
